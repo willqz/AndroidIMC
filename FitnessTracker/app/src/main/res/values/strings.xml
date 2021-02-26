@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FitnessTracker</string>
+    <string name="lbl_imc">IMC</string>
+    <string name="imc_desc">IMC é a sigla para indice de massa Corporal que serve para avaliar o peso  do individuo em relação à sua altura</string>
+    <string name="peso">peso (km)</string>
+    <string name="altura">Altura (cm)</string>
+    <string name="calcular">Calcular</string>
+    <string name="imc_form_invalid">Dados incorretos para realização do calculo</string>
+
+    <string name="imc_severamente_acima">Severamente acima do peso</string>
+    <string name="imc_muito_abaixo">Muito abaixo do peso</string>
+    <string name="imc_abaixo">Abaixo do peso</string>
+    <string name="imc_normal">NORMAL</string>
+    <string name="imc_acima">Acima do peso</string>
+    <string name="imc_moderadamente_obeso">Moderadamente obeso</string>
+    <string name="imc_severamente_obeso">Severamente obeso</string>
+    <string name="imc_extremamente_obeso">Extremamente obeso</string>
+    <string name="imcResponse">IMC: %1$.2f</string>
+
+</resources>
